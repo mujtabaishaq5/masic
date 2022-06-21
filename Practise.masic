@@ -1,0 +1,22 @@
+// This is comment
+
+// This is my programming language
+
+VAR result = ""
+	VAR len = LEN(elements)
+
+	FOR i = 0 TO len THEN
+		VAR result = result + elements/i
+		IF i != len - 1 THEN VAR result = result + separator
+	END
+
+	RETURN result
+END
+
+Var a = b
+a = 2
+
+PRINT("Hello World!")
+
+// This example syntax. Some of the features were planned but not added due to shortage of time.
+
