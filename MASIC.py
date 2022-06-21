@@ -3,25 +3,9 @@
 #بسم الله الرحمن الرحيم
 
 '''
-          Assignment No. 5
+Created for practise only. May contain some errors.
 
-Group: Syed Muhammad Mujtaba Ishaq
-       Ali Muhtashim
-
-
-Course code: CS5006 - TPL
-
-
-Roll no: 21L-7230
-         20L-2345
-
-
-Semester: Fall 2021
-
-
-
-Programme: MS(CS)
-
+Needed any help contact me at friedrickcolon@gmail.com
 
 '''
 
